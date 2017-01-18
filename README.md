@@ -1,13 +1,17 @@
 # Can i has frontend skillz: shortcut FAQ
 
+## ГОУТУ: 
 1. Верстка
-..* -Энтри левел
-..* -Продвинутый левел
+  * -Энтри левел
+  * -Продвинутый левел
+  
 2. JS
-⋅⋅* Basic
-..* Intermediate
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+  * Basic
+  * Intermediate
+  * Advanced
+  
+3. Обучающие материалы и прочие ништяки
+
+
 
 [test](https://github.com/acilsd/wrk-fet/blob/master/markup-1/README.md)
