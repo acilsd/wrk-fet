@@ -1,2 +1,1 @@
-# wrk-fet
-new SHAPKA for frontend thread
+# Can i has frontend skillz: shortcut FAQ
