@@ -5,14 +5,14 @@
 Платиновая шапка платинового треда, переписанная и (возможно) дополненная.
 
 ## СОДЕРЖАНИЕ:
-1. [Интро](https://github.com/acilsd/wrk-fet/blob/master/PLATINA/README.md)
+1. [Интро](https://github.com/acilsd/wrk-fet/tree/master/PLATINA)
 2. Верстка
-  * [Энтри левел](https://github.com/acilsd/wrk-fet/blob/master/markup-1/README.md)
-  * [Продвинутый левел](https://github.com/acilsd/wrk-fet/blob/master/markup-2/README.md)
+  * [Энтри левел](https://github.com/acilsd/wrk-fet/tree/master/markup-1)
+  * [Продвинутый левел](https://github.com/acilsd/wrk-fet/tree/master/markup-2)
 
 3. JS
-  * [Basic](https://github.com/acilsd/wrk-fet/blob/master/js-1/README.md)
-  * [Intermediate](https://github.com/acilsd/wrk-fet/blob/master/js-2/README.md)
-  * [Advanced](https://github.com/acilsd/wrk-fet/blob/master/js-3/README.md)
+  * [Basic](https://github.com/acilsd/wrk-fet/tree/master/js-1)
+  * [Intermediate](https://github.com/acilsd/wrk-fet/tree/master/js-2)
+  * [Advanced](https://github.com/acilsd/wrk-fet/tree/master/js-3)
 
-4. [Обучающие материалы и прочие ништяки](https://github.com/acilsd/wrk-fet/blob/master/nishtyaki/README.md)
+4. [Обучающие материалы и прочие ништяки](https://github.com/acilsd/wrk-fet/tree/master/nishtyaki)
