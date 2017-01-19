@@ -9,9 +9,6 @@
     *  http://htmlacademy.ru/
     *  http://htmlbook.ru/
     *  https://webref.ru/
-    *  Уютный бложик Никотина: http://nicothin.pro/ (есть полезные статейки)
-    *  Материалы интенсивов академии: https://github.com/tsergeytovarov/htmlacademy-basic-additional-material
-    *  Материалы от teamtreehouse, любезно слитые аноном (англ): https://mega.nz/#!PgRiXJLK!Ske0xNBPaC9Rm_3mV9c5Zoz6rD5Yna-V7pI-yzJOB_A
   * JS:
     *  http://learn.javascript.ru/ Ультраплатина и ультрагоднота. Не осилили Кантора? Добро пожаловать на завод.
     *  http://shamansir.github.io/JavaScript-Garden/ Тоже ультрагоднота, для тех, кто уже шарит. Проверить знания, подтянуть, вспомнить да и вообще хорошо написано.
@@ -32,13 +29,12 @@
   * http://rutracker.org/forum/viewtopic.php?t=4214664  - "CSS ручной работы" Дэн Седерхольм
   * http://www.ozon.ru/context/detail/id/5647176/  - "Большая книга CSS" Дэвид Сойер Макфарланд
   * http://habrahabr.ru/post/240219/ - «Выразительный Джаваскрипт» Хавербек Марейн. Вводна книга по JS и программингу в целом. Для новичков может быть сложноватой.
-  * http://frontendbookshelf.ru/ - список полезных книг. Большинство актуальны, можно выбрать по языку, технологии и конкретному уровню знаний. Первооочередную литературу желательно брать оттуда.
-  * http://scanlibs.com/ что-то типа хранилища айти книг. Скачать книги можно бесплатно. Там есть дохуя всего. Если в свободном доступе не найдете, попробуйте поискать там.
+
 
 ### Текстовые редакторы:
   *  http://brackets.io/
   *  http://www.sublimetext.com/2
-  *  https://atom.io/
+  
 
 Как говорится - сорта, пишите в любом.
 
