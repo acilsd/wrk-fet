@@ -24,4 +24,113 @@
     *  http://codeschool.com/ Аналогично
     *  Материалы от teamtreehouse, любезно слитые аноном (JavaScript Angular/Node/D3/Gulp/NPM/OOJS/Ajax/Ember, англ): https://mega.nz/#!C0ZmhIhJ!PoCGxIVvExoTa0rAjrDoXp-tjQ2kc3k5UasFu8lRB_4
 
+### Книги:
+
+Тут надо выбирать индивидуально. Если по HTML/CSS, то желательно, чтобы книга была не старше 2012 года, ну или хотя бы переиздана. Читай все что интересно. В любом случае это будет полезно.
+
+  *  http://www.ozon.ru/context/detail/id/20279391/   - "Создаем динамические веб-сайты с помощью PHP, MySQL, JavaScript и CSS" Весьма неплохая книга, бегло позволит ориентироваться в основах веб-технологий и понять, как же все это говно вместе работает.
+  * http://rutracker.org/forum/viewtopic.php?t=4214664  - "CSS ручной работы" Дэн Седерхольм
+  * http://www.ozon.ru/context/detail/id/5647176/  - "Большая книга CSS" Дэвид Сойер Макфарланд
+  * http://habrahabr.ru/post/240219/ - «Выразительный Джаваскрипт» Хавербек Марейн. Вводна книга по JS и программингу в целом. Для новичков может быть сложноватой.
+  * http://frontendbookshelf.ru/ - список полезных книг. Большинство актуальны, можно выбрать по языку, технологии и конкретному уровню знаний. Первооочередную литературу желательно брать оттуда.
+  * http://scanlibs.com/ что-то типа хранилища айти книг. Скачать книги можно бесплатно. Там есть дохуя всего. Если в свободном доступе не найдете, попробуйте поискать там.
+
+### Текстовые редакторы:
+  *  http://brackets.io/
+  *  http://www.sublimetext.com/2
+  *  https://atom.io/
+
+Как говорится - сорта, пишите в любом.
+
+---
+
+### Мало? Получите еще:
+
+Если вы дошли сюда, значит уже что-то умеете, теперь пойдут профессиональные штуки, очень полезные для общего развития.
+
+#### Сервисы:
+
+  * Тесты поддержки новых возможностей в браузерах
+    * http://html5test.com
+    * http://css3test.com
+    * http://caniuse.com
+    * http://fmbip.com/litmus/#css3-properties
+
+    * Набор полифилов и рекомендаций
+      *  http://html5please.com
+      *  http://css3please.com
+
+  * Сборник CSS3 анимаций
+    *  http://daneden.github.io/animate.css/
+
+  * Генераторы CSS3 свойств
+    *  http://css3generator.com
+  * Градиенты: http://www.css3factory.com/linear-gradients/
+
+  * Определение поддержки
+    *  http://modernizr.com
+  * Вспомогательные букмарклеты
+    *  http://mir.aculo.us/dom-monster/
+    *  http://responsive.victorcoulon.fr
+
+  * Стартовый шаблон страницы
+    *  http://html5boilerplate.com
+
+  * Наборы веб шрифтов
+    *  http://www.google.com/fonts
+    *  http://typekit.com
+    *  http://webfont.ru/
+    *  http://fontello.com/
+
+  * Работа с префиксами
+    *  https://github.com/ai/autoprefixer
+    *  http://leaverou.github.io/prefixfree/
+
+  * Оптимизаторы CSS/JS/SVG/Images:
+    *  https://github.com/css/csso
+    *  https://code.google.com/p/cssmin/
+    *  https://github.com/mishoo/UglifyJS2
+    *  http://closure-compiler.appspot.com/home
+    *  https://github.com/svg/svgo/
+    *  http://imageoptim.com
+    *  http://pngmini.com
+
+  * Продвинутый валидатор ХТМЛ
+    *  https://validator.w3.org/nu/
+  * Замеры скорости работы сайта
+    *  http://gtmetrix.com
+
+  * Таблица UTF-8 символов
+    *  http://copypastecharacter.com
+
+  * Паттерны для фонов
+    *  http://subtlepatterns.com
+    *  http://noisepng.com
+    *  http://repper.studioludens.com/repper.html
+
+Справочник Mozilla Developer Network - http://developer.mozilla.org/en/docs/Web/JavaScript
+Учебник JavaScript - http://learn.javascript.ru/
+JavaScript на Codecademy - http://www.codecademy.com/ru/tracks/javascript
+JavaScript Garden - http://bonsaiden.github.io/JavaScript-Garden/ru/
+
+JavaScript API
+Canvas - http://developer.mozilla.org/en-US/docs/Web/HTML/Canvas
+Geolocation API - http://developer.mozilla.org/en/docs/WebAPI/Using_geolocation
+History API - http://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Manipulating_the_browser_history
+Web Notifications API - http://developer.mozilla.org/en-US/docs/WebAPI/Using_Web_Notifications
+Full Screen API - http://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Using_full_screen_mode
+Device Orientation API - http://www.html5rocks.com/en/tutorials/device/orientation/
+Ambient Light API - http://developer.mozilla.org/en-US/docs/WebAPI/Using_Light_Events
+Vibration API - http://davidwalsh.name/vibration-api
+Gamepad API - http://developer.mozilla.org/en-US/docs/Web/Guide/API/Gamepad
+Battery Status API - http://developer.mozilla.org/en-US/docs/WebAPI/Battery_Status
+Page Visibility API - http://www.html5rocks.com/en/tutorials/pagevisibility/intro/
+Web Workers - http://www.html5rocks.com/en/tutorials/workers/basics/
+
+#### Еще статьи:
+
+  *  Улучшаем опыт взаимодействия с формам - http://simonenko.su/38146501854/improving-ux-for-web-form
+  *  Циклическое слайд-шоу на чистом CSS3 - http://habrahabr.ru/post/143025/
+  *  Библия и 9 заповедей начинающего версталы от господа бога Гугла https://developers.google.com/web/fundamentals/
+
 #### Hint: ищем на (шепотом) торрентах курсы по искомой технологии на английском. Все русскоукроязычное, как правило, мусор для вытягивания бабла и не достойно даже бесплатного просмотра.
