@@ -9,7 +9,7 @@
 
 2. [Верстка](#Верстка)
 
-3. [JavaScript](#JavaScript)
+3. [JavaScript](#javascript)
 
 
 4. [Обучающие материалы](#Обучающие материалы)
