@@ -5,14 +5,19 @@
 Платиновая шапка платинового треда, переписанная и (возможно) дополненная.
 
 ## СОДЕРЖАНИЕ:
-1. [Интро](#Интро)
+1. [Интро](#интро)
 
-2. [Верстка](#Верстка)
+2. [Верстка](#верстка)
 
 3. [JavaScript](#javascript)
 
+4. [Основы](#основы)
 
-4. [Обучающие материалы](#Обучающие материалы)
+5. [Продолжение](#Продолжение)
+
+6. [Advanced](#advanced)
+
+7. [Заключение](#заключение)
 
 ## Интро
 
@@ -85,7 +90,7 @@ _TL;DR_: если вы осилите нечто большее, чем прик
 
 Жизнь сложнее конструктора.
 
-**[⬆ К оглавлению](#СОДЕРЖАНИЕ)**
+**[⬆ К оглавлению](#содержание)**
 
 ---
 
@@ -126,7 +131,7 @@ _TL;DR_: если вы осилите нечто большее, чем прик
 
 ---
 
-**[⬆ К оглавлению](#СОДЕРЖАНИЕ)**
+**[⬆ К оглавлению](#содержание)**
 
 ---
 
@@ -172,7 +177,9 @@ _TL;DR_: если вы осилите нечто большее, чем прик
   *  http://habrahabr.ru/hub/webdev/ - тематический хаб, иногда проскальзывают полезные публикации.
   *  Документация препроцессоров: http://sass-lang.com/ http://lesscss.org/ http://stylus-lang.com/
 
-Дополнительные ресурсы, которые могут быть полезными на данном этапе:
+---
+
+__Дополнительные ресурсы, которые могут быть полезными на данном этапе:__
 
   *  http://tympanus.net/codrops/ - еженедельная подборка новостей
   *  http://www.smashingmagazine.com/ - многое отсюда так или иначе переведено на русский, ресурс полезный для развития
@@ -185,7 +192,9 @@ _TL;DR_: если вы осилите нечто большее, чем прик
   *  Материалы интенсивов академии: https://github.com/tsergeytovarov/htmlacademy-basic-additional-material
   *  Материалы от teamtreehouse, любезно слитые аноном (англ): https://mega.nz/#!PgRiXJLK!Ske0xNBPaC9Rm_3mV9c5Zoz6rD5Yna-V7pI-yzJOB_A
 
-> _А книги, книги то будут? Хочу книжку!_
+---
+
+> __А книги, книги то будут? Хочу книжку!__
 
 Книги надо выбирать индивидуально. Если по HTML/CSS, то желательно, чтобы книга была не старше 2012 года, ну или хотя бы переиздана. Читай все что интересно. В любом случае это будет полезно.
 
@@ -216,41 +225,46 @@ _TL;DR_: если вы осилите нечто большее, чем прик
 
 >http://randomfederation.github.io/
 
+**[⬆ К оглавлению](#содержание)**
+
 ## JavaScript
 
 ---
 
-> Placeholder
+Мир верстки был довольно дружелюбным и понятным. Мир JS - это особый мир особого программирования, где любая задача может иметь десятки решений, где существуют сотни и тысячи инструментов, библиотек и подводных камней. Добро пожаловать в ад.
 
 ![alt text](http://i.imgur.com/lKnOgq7.png "welcome to hell")
 
+Шутка. На самом деле, все довольно хорошо. ES6 прекрасен, вебпак прекрасен, а среди фреймворков осталось ровно два стула: React+Redux vs Angular2. Но обо всем по порядку.
 
-    *  Справочник Mozilla Developer Network - http://developer.mozilla.org/en/docs/Web/JavaScript
-    *  Учебник JavaScript - http://learn.javascript.ru/
-    *  JavaScript на Codecademy - http://www.codecademy.com/ru/tracks/javascript
-    *  JavaScript Garden - http://bonsaiden.github.io/JavaScript-Garden/ru/
+## Основы
 
-    *  JavaScript API
-    *  Canvas - http://developer.mozilla.org/en-US/docs/Web/HTML/Canvas
-    *  Geolocation API - http://developer.mozilla.org/en/docs/WebAPI/Using_geolocation
-    *  History API - http://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Manipulating_the_browser_history
-    *  Web Notifications API - http://developer.mozilla.org/en-US/docs/WebAPI/Using_Web_Notifications
-    *  Full Screen API - http://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Using_full_screen_mode
-    *  Device Orientation API - http://www.html5rocks.com/en/tutorials/device/orientation/
-    *  Ambient Light API - http://developer.mozilla.org/en-US/docs/WebAPI/Using_Light_Events
-    *  Vibration API - http://davidwalsh.name/vibration-api
-    *  Gamepad API - http://developer.mozilla.org/en-US/docs/Web/Guide/API/Gamepad
-    *  Battery Status API - http://developer.mozilla.org/en-US/docs/WebAPI/Battery_Status
-    *  Page Visibility API - http://www.html5rocks.com/en/tutorials/pagevisibility/intro/
-    *  Web Workers - http://www.html5rocks.com/en/tutorials/workers/basics/
+    *  __Учебник JavaScript__ - http://learn.javascript.ru/ Ультраплатиновая ультрагоднота. Лучше просто нет, не осиливаете Кантора - повод задуматься о смене сферы интересов. Серьезно. На что обращать внимание в первую очередь (в порядке разделов учебника):
+      *  Основы - типы данных, функции, операторы
+      *  Структуры данных - массивы, объекты, их свойства, встроенные методы
+      *  Область видимости - что такое глобальный объект, как вызываются функции, как работают замыкания
+      *  Методы объектов и контекст вызова - здесь нужно осилить все
+      На этом можно притормозить и отдышаться. Что-то не получается? Не вычисляются фибоначчи? Рекурсия не рекурсирует? Отвлекитесь, отдохните, перечитайте теорию, попробуйте снова. Составьте алгоритм псевдокодом или вовсе своими словами.
+      Пример:
+      `Создаем [пустой массив]. Берем число, проверяем его на нужное условие. Для этого нужно сделать то-то и то-то.`
+    Кантора нужно разнообразить:
+    *  https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw Очень годный канал (англ). Есть и основы ES5, и ES6 и, конечно, React + Redux + MobX.
+    *  Неплохой курс на коудкадеми(англ): https://www.codecademy.com/ru/learn/javascript
+    *  http://bonsaiden.github.io/JavaScript-Garden/ru/ - хорошая вещь. Как для тех, кто уже разбирается, так и для тех, кто только начинает и запутался.
+    *  __Справочник Mozilla Developer Network, без него никуда__ http://developer.mozilla.org/en/docs/Web/JavaScript
 
 ---
 
-**[⬆ К оглавлению](#СОДЕРЖАНИЕ)**
+**[⬆ К оглавлению](#содержание)**
 
 
-##Обучающие материалы
+## Продолжение
 
+Итак, мы владеем основами языка, умеем вычислять фибоначчи, работать с объектами, строками и массивами. Пришло время углубляться: на этом этапе придется изучить ООП, основы функциональности, потрогать ES6, пошатать DOM. В конечном итоге уже можно будет писать практически полезный код, к примеру - какой-нибудь слайдер.
 ---
 
-**[⬆ К оглавлению](#СОДЕРЖАНИЕ)**
+**[⬆ К оглавлению](#содержание)**
+
+## Advanced
+
+## Заключение
