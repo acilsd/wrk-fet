@@ -313,6 +313,7 @@ __Дополнительные ресурсы, которые могут быт�
 
 * [Guide to functional programming](https://drboolean.gitbooks.io/mostly-adequate-guide/)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) Воистину легендарная книга
+* [Краткий вольный пересказ You Don't Know JS](https://github.com/a-kon/ydkjs-synopsis) конспект YDKJS от одного очень шарящего анона
 
 > Что уметь?
 
