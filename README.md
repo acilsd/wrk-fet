@@ -398,19 +398,11 @@ FAQ не освещает вопросы уровня:
 
 Релейтед ресурсы:
 
-<<<<<<< HEAD
-* [Tutorial](https://reactjs.org/tutorial/tutorial.html) - официальный туториал
-* [React Router](https://reacttraining.com/react-router/web/guides/philosophy) - хороший годный гайд-туториал-документация по реакт-роутеру.
-* [Redux + react](https://redux.js.org/basics/usagewithreact) - официальный гайд по редаксу в связке с реактом.
-* [React для начинающих](https://maxfarseer.gitbooks.io/react-course-ru-v2/content/) обновленная версия уже давно протухшего туториала, пусть будет тут во имя исторической справедливости (можно посмотреть по фану) 
-* [React Redux](https://maxfarseer.gitbooks.io/redux-course-ru-v2/) обновленный туториал по редаксу
-=======
 - [Tutorial](https://reactjs.org/tutorial/tutorial.html) - официальный туториал
 - [React Router](https://reacttraining.com/react-router/web/guides/philosophy) - хороший годный гайд-туториал-документация по реакт-роутеру.
 - [Redux + react](https://redux.js.org/basics/usagewithreact) - официальный гайд по редаксу в связке с реактом.
-- [React для начинающих](https://maxfarseer.gitbooks.io/react-course-ru/content/) уже давно протухший туториал, пусть будет тут во имя исторической справедливости (можно посмотреть по фану)
-- [React Redux](https://maxfarseer.gitbooks.io/redux-course-ru/content/) такой же туториал по редаксу
->>>>>>> имхуечки подъехали
+- [React для начинающих](https://maxfarseer.gitbooks.io/react-course-ru-v2/content/) обновленная версия уже давно протухшего туториала, пусть будет тут во имя исторической справедливости (можно посмотреть по фану)
+- [React Redux](https://maxfarseer.gitbooks.io/redux-course-ru-v2/) обновленный туториал по редаксу
 
 Список из годных, просмотренных очень многими анонами и ютуб-каналов:
 
