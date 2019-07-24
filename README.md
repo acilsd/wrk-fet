@@ -490,6 +490,25 @@ TL;DR: берите TypeScript, не прогадаете. Все остальн
 
 Обычно сначала трудно но через пару недель чувствуешь результат, потом уже стабильное улучшение.
 
+### Подкасты
+
+Подкасты сейчас очень популярны, только ленивый их не записывает. Но среди всей этой кучи встречаются реально интересные, где можно послушать крутых спецов из той или иной сферы или что-то полезное узнать. По фронтенду их существует огромное количество как на русском языке, так и на английском (в этом случае можно прокачать свой скилл восприятия английского на слух). Вот самые популярные из них.
+
+На русском:
+- [Веб-стандарты](https://soundcloud.com/web-standards)
+- [FrontendWeekend](http://frontendweekend.ml/)
+- [Фронтенд Юность](https://soundcloud.com/frontend_u)
+- [DevShacht](https://soundcloud.com/devschacht)
+- [Пятиминутка React](http://5minreact.ru/)
+
+На ангийском:
+- [Front End Happy Hour](https://frontendhappyhour.com/)
+- [JS Party](https://changelog.com/jsparty)
+- [JavaScript Jabber](https://devchat.tv/js-jabber/)
+- [The Frontside Podcast](https://frontside.io/podcast/)
+- [Egghead Podcasts](https://egghead.io/podcasts)
+
+
 ### Прочие мелочи
 
 > Правда ли, что JS был придуман за 10 дней? Мой друг Вася-Джавист сказал, что это ущербный недоязык, хах.
